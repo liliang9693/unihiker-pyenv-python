@@ -77,7 +77,7 @@ pyenv是一个方便管理python版本的工具，
 - 上传到行空板上pyenv路径下，即```/root/.pyenv/versions/```
 
 
-![upload](README.assets/upload.png)
+![upload](README-cn.assets/upload.png)
 
 ## 3.安装版本
 
