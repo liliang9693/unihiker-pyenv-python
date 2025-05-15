@@ -1,4 +1,4 @@
-[【中文】](./README-CN.md)
+[【中文】](./README-cn.md)
 
 # Instructions
 
@@ -74,5 +74,4 @@ pip list
 ```
 pyenv global system
 ```
-
 
