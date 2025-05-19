@@ -45,14 +45,18 @@ offlineInstall
 
 使用[smb文件共享功能](https://www.unihiker.com.cn/wiki/m10/samba)功能将上一步的2个文件夹上传到行空板root文件夹中。
 
-![upload](README-cn.assets/smbuploadfile.png.png)
+![upload](README-cn.assets/smbuploadfile.png)
 
 
 ## 安装
 
 
 
-```接下来按照教程安装：``` [【点击查看离线安装教程】](./offlineInstall/README-cn.md)
+```接下来按照教程安装：``` [【点击查看离线安装操作说明】](./offlineInstall/README-cn.md)
+
+
+
+
 
 
 
@@ -60,7 +64,17 @@ offlineInstall
 
 
 
+---
+
+
+
+
+
 >  注意：以下方法推荐网络环境好，能正常访问github的情况下使用。
+
+
+
+
 
 
 
