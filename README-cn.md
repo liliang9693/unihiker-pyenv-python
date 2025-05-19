@@ -28,8 +28,6 @@ pyenv是一个方便管理python版本的工具，
 
 ```	
 offlineInstall
-│  log.md
-│  README-cn.md
 │
 ├─1-OfflineInstallPyenv
 │      install.sh
