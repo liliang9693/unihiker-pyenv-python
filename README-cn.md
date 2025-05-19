@@ -8,7 +8,65 @@ pyenv是一个方便管理python版本的工具，
 
 
 
-# 使用方法
+# 使用方法-离线安装
+
+## 文件准备
+
+### 在电脑上准备以下文件：
+
+>下载路径：
+>- 下载路径一:  github releases：https://github.com/liliang9693/unihiker-pyenv-python/releases
+>- 下载路径二:  百度网盘： https://pan.baidu.com/s/171Qao8nwvjqZdT1iYHFb_w?pwd=pyen 
+
+1、下载offlineInstall.zip文件，解压，得到“1-OfflineInstallPyenv”和“2-installPythonIntoPyenv”两个文件夹。
+
+2、下载需要的python版本对应编译后的tar.gz文件，本教材以3.11.4为例则下载python-3.11.4.tar.gz，无需解压，直接放到第1步得到的“2-installPythonIntoPyenv文件夹”中。
+
+
+
+准备好了之后文件目录情况应该如下：
+
+```	
+offlineInstall
+│  log.md
+│  README-cn.md
+│
+├─1-OfflineInstallPyenv
+│      install.sh
+│      offline-repo.tar.gz
+│      pyenv-offline.tar.gz
+│
+└─2-installPythonIntoPyenv
+        install.sh
+        python-3.11.4.tar.gz
+```
+
+
+
+### 将文件夹上传到行空板
+
+使用[smb文件共享功能](https://www.unihiker.com.cn/wiki/m10/samba)功能将上一步的2个文件夹上传到行空板root文件夹中。
+
+![upload](README-cn.assets/smbuploadfile.png.png)
+
+
+## 安装
+
+
+
+```接下来按照教程安装：``` [【点击查看离线安装教程】](./offlineInstall/README-cn.md)
+
+
+
+---
+
+
+
+>  注意：以下方法推荐网络环境好，能正常访问github的情况下使用。
+
+
+
+# 使用方法-联网安装
 
 ## 1.在行空板上安装pyenv环境
 
