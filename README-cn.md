@@ -10,6 +10,8 @@ pyenv是一个方便管理python版本的工具，
 
 # 使用方法-离线安装
 
+操作录屏>跳转B站观看：[https://www.bilibili.com/video/BV1C97BzrEer/](https://www.bilibili.com/video/BV1C97BzrEer/)
+
 ## 文件准备
 
 ### 在电脑上准备以下文件：
