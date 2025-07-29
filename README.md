@@ -6,6 +6,8 @@ pyenv is a convenient tool for managing Python versions.
 
 This repository stores the environment packages loaded by pyenv on the UNIHIKER. You can directly download the files and extract them into the pyenv environment to avoid lengthy downloads.
 
+> Note: pyenv is built into the system of Xingkong board V0.4.1 and above. If you already have this version, you do not need to install it again.
+
 # Usage
 
 ## 1. Install pyenv on UNIHIKER
