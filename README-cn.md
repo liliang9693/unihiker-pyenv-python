@@ -6,11 +6,12 @@ pyenv是一个方便管理python版本的工具，
 
 本仓库存储行空板上pyenv加载的环境包，可以直接下载文件解压到pyenv的环境中，避免长时间下载。
 
-
+> 注：行空板V0.4.1及以上版本系统内置了pyenv，如已经是此版本，无需重复安装。
 
 # 使用方法-离线安装
 
 操作录屏>跳转B站观看：[https://www.bilibili.com/video/BV1C97BzrEer/](https://www.bilibili.com/video/BV1C97BzrEer/)
+
 
 ## 文件准备
 
